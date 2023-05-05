@@ -1,5 +1,6 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
-“Forzando Conflicto” by JJ
+“Forzando Conflicto - Alex"
 Algo nuevo que aprender — By Jaime Vilorio
+
