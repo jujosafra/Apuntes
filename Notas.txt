@@ -3,5 +3,6 @@ Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
 “Forzando Conflicto - Alex"
 hola mundo por JJ
+Esta linea es para forzar un conflicto
 Algo nuevo que aprender — By Jaime Vilorio
 
